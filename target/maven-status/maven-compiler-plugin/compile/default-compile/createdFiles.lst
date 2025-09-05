@@ -1,9 +1,0 @@
-dev\abdelrahmanmoharram\cpswatchdog\manager\CPSManager$1.class
-dev\abdelrahmanmoharram\cpswatchdog\cpswatchdog.class
-dev\abdelrahmanmoharram\cpswatchdog\commands\CPSCommand.class
-dev\abdelrahmanmoharram\cpswatchdog\listeners\ClickListener.class
-dev\abdelrahmanmoharram\cpswatchdog\commands\CPSReloadCommand.class
-dev\abdelrahmanmoharram\cpswatchdog\commands\CPSStatsCommand.class
-dev\abdelrahmanmoharram\cpswatchdog\manager\CPSManager.class
-dev\abdelrahmanmoharram\cpswatchdog\commands\CPSAlertCommand.class
-dev\abdelrahmanmoharram\cpswatchdog\data\PlayerCPSData.class
